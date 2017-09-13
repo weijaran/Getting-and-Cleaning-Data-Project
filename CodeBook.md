@@ -10,12 +10,12 @@
 
 ### Variables in the data set
 
-* Subject: id to represent each volunteer who participated the experiments and whose activities have been recorded in the raw data.
+* Subject: id to represent each volunteer who participated the experiments and whose activities have been recorded in the raw data
 
-* Activity: six activities(WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) performed by volunteers in the experiments.
+* Activity: six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) performed by volunteers in the experiments
 
 * The rest of columns: average of feature values for each activity and each subject; 
-features in this new data set were measurements on the mean and standard deviation for each measurement selected from the raw data.
+features in this new data set were measurements on the mean and standard deviation for each measurement selected from the raw data
 
 	- tBodyAcc-mean()-X
 	- tBodyAcc-mean()-Y
